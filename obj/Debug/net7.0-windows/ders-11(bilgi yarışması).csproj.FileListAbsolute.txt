@@ -1,0 +1,33 @@
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).deps.json
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).runtimeconfig.json
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).csproj.AssemblyReference.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders_11_bilgi_yarışması_.Form1.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).csproj.GenerateResource.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).AssemblyInfoInputs.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).AssemblyInfo.cs
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).csproj.CoreCompileInputs.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\refint\ders-11(bilgi yarışması).dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).genruntimeconfig.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ref\ders-11(bilgi yarışması).dll
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).exe
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).deps.json
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).runtimeconfig.json
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).dll
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\bin\Debug\net7.0-windows\ders-11(bilgi yarışması).pdb
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders_11_bilgi_yarışması_.Form1.resources
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).csproj.GenerateResource.cache
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).GeneratedMSBuildEditorConfig.editorconfig
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).AssemblyInfoInputs.cache
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).AssemblyInfo.cs
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).csproj.CoreCompileInputs.cache
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).dll
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\refint\ders-11(bilgi yarışması).dll
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).pdb
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ders-11(bilgi yarışması).genruntimeconfig.cache
+D:\Selman\Selman's Project\ders-11(bilgi yarışması)\obj\Debug\net7.0-windows\ref\ders-11(bilgi yarışması).dll
